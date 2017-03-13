@@ -1,0 +1,9 @@
+.shows {
+  background: linear-gradient(to bottom, lightgreen, lightgrey 50%, lightblue);
+  border: 1px solid grey;
+  float: left;
+}
+
+.band {
+  float: right;
+}
