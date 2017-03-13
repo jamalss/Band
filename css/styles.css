@@ -2,8 +2,18 @@
   background: linear-gradient(to bottom, lightgreen, lightgrey 50%, lightblue);
   border: 1px solid grey;
   float: left;
+  padding: 20px;
+  margin: 10px;
 }
 
 .band {
   float: right;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid blue;
+}
+
+p {
+  padding: 20px;
+  margin: 10px;
 }
